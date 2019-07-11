@@ -1,0 +1,14 @@
+.title {
+    outline-style: solid;
+    text-align: center;
+    background-color: aliceblue;
+}
+nav{margin:20px;}
+form{
+    text-align:center;
+    margin:20px;
+}
+body{background-image: url("../assets/cloudycloudy.gif")}
+.container{
+    width:80%;
+}
